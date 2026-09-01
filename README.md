@@ -1,2 +1,21 @@
-# Student-Management-System
-Student Management &amp; CGPA Dashboard is a web-based system for managing student records, tracking academic performance, calculating CGPA, and visualizing results through an interactive, user-friendly dashboard.
+# Student Management and CGPA Dashboard
+A Python-based Student Managenent System built using Streamlit and SQLite.
+
+## Features :
+- Add Students
+- View Students
+- Delete Students
+- Add Subject Marks
+- Calculate Grades
+- Calculate SGPA
+- Student Performance Dashboard
+- SGPA Visualization
+- SQLite Database
+
+## Technologies Used :
+- Python
+- Streamlit
+- SQLite
+- Pandas
+- Git
+- Github
