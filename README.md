@@ -19,3 +19,9 @@ A Python-based Student Managenent System built using Streamlit and SQLite.
 - Pandas
 - Git
 - Github
+
+## Project Purpose :
+The **Student Management & CGPA Dashboard** is designed to simplify student record management, automate CGPA calculation, and provide an interactive dashboard to track and analyze academic performance efficiently.
+
+## Developer :
+**Kartik S Jadhav**
